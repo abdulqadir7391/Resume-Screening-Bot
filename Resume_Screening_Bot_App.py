@@ -377,3 +377,4 @@ else:
 # Footer
 st.markdown("---")
 st.caption("Built with Python, spaCy, SentenceTransformers, PyMuPDF, docx2txt, pandas and Streamlit.")
+
